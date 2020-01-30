@@ -1,3 +1,4 @@
+/*there was no additional styling needed here, originally I thought I could have consolidated but ended up not being the case for what my final product was.*/
 * {
     box-sizing: border-box;
     padding: 0;
@@ -49,7 +50,7 @@ a {
 p {
     font-size: 16px;
 }
-
+/*I noticed that this page does not open smoothly and I think it is because of the way tye styling is set for th image here. it might run a little smoother if the image was in html and styled in css.*/
 .hero {
     height: 800px;
     width: 100%;
